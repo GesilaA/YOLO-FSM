@@ -15,7 +15,7 @@ This project support YoloV3, YoloV4 and YoloV5.
 * python 3.6
 
 ## pretrained weights
-Baidu Netdisk: 
+Baidu Netdisk: https://pan.baidu.com/s/1kxuHjR7qZTwGN3Z1y02AFw  9xja
 
 ## data prepare
 ```
