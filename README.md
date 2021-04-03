@@ -69,3 +69,5 @@ python test.py --weight_path ${weight_path}
 | YoloV5l	  | 80.7 | 89.6 | 87.2 | 78.3 | 71.5 | 74.9 | 86.1 | 89.4 | 86.1 | 64.8 | 86.6 | 75.5 | 84.3 | 90.0 | 85.6 | 85.6 | 56.3 | 83.5 | 75.5 | 85.2 | 78.2 |
 | YoloV5l-FSM | 82.2 | 86.6 | 88.6 | 82.4 | 76.5 | 75.6 | 87.0 | 89.4 | 87.9 | 66.1 | 87.2 | 78.0 | 85.9 | 88.1 | 88.3 | 86.6 | 58.6 | 87.4 | 74.7 | 87.7 | 80.4 |
 
+## Visualization on VOC2007 Test set
+Baidu Netdisk: https://pan.baidu.com/s/1FySdBBbZzkjyKr0KN9JpSQ  hn8t
